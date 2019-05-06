@@ -16,7 +16,7 @@ $ docker-compose up -d (It can take some time when first up)
 $ python manage.py migrate
 ```
 
-## RUN
+##  RUN
 ```console
 $ python manage.py runserver
 ```
